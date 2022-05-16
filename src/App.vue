@@ -1,4 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { run } from "./Learning.ts";
+run();
+</script>
 
 <template>
   <div>Hiiiiiiiiiiiii</div>
